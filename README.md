@@ -1,4 +1,4 @@
-# Sia Translation API
+# Translation API
 
 A robust, authenticated, and rate-limited Translation API built with FastAPI and Hugging Face's M2M100 model.
 
@@ -100,5 +100,8 @@ A robust, authenticated, and rate-limited Translation API built with FastAPI and
 - **Port Already in Use**: Change the port in `main.py` if 8000 is occupied.
 
 ## Team Members and Contributions
-- **Lead Developer**: Sia (Implementing FastAPI architecture and model integration)
-- **DevOps/QA**: Antigravity (Automation, testing, and documentation)
+- Jeff Lesino 
+- Allyson Laleo
+- Chrison Yoga
+- Vic Socyawan
+- Ganayo Pekas
