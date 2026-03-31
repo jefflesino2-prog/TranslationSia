@@ -100,8 +100,8 @@ A robust, authenticated, and rate-limited Translation API built with FastAPI and
 - **Port Already in Use**: Change the port in `main.py` if 8000 is occupied.
 
 ## Team Members and Contributions
-- Jeff Lesino 
-- Allyson Laleo
-- Chrison Yoga
-- Vic Socyawan
-- Ganayo Pekas
+- Jeff Lesino - Coding and Testing
+- Allyson Laleo - Debugging and Testing
+- Chrison Yoga - Coding and Testing
+- Vic Socyawan - Debugging and Presentation
+- Ganayo Pekas - Documentation and Presentation
